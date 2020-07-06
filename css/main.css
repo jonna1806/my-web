@@ -1,14 +1,25 @@
-body{
-	background: #fff;
-	color: #000;
-}
-
-h1{
-	font-size: 20px;
-	margin-bottom: 10px;
+.container{
+	max-width: 1000px;
+	margin: 0 auto;
 
 }
 
-p{
-	color: #ddd;
+header{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+ul{
+	display: flex;
+	align-items: center;
+	list-style: none;
+}
+
+li {
+	margin-right: 20px;
+}
+
+li:last-child{
+	margin-right: 0px;
 }
