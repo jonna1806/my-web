@@ -15,13 +15,3 @@ Paso 3
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima necessitatibus minus praesentium veniam veritatis cumque eaque, rem doloremque natus, labore totam assumenda placeat accusantium. Facilis dolore unde quaerat fugiat quidem.
 
-## Subtítulo
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima necessitatibus minus praesentium veniam veritatis cumque eaque, rem doloremque natus, labore totam assumenda placeat accusantium. Facilis dolore unde quaerat fugiat quidem.
-
-- Item 
-- Item 
-- Item 
-- Item 
-- Item 
- 
